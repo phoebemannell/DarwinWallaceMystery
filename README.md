@@ -5,3 +5,5 @@ Welcome to our mystery! In this repo you will find resources for both parts of t
 Click below to get started:
 ##[Part One](http://philome.la/phoebemannell/did-darwin-crib-wallace-a-digital-history-mystery)
 ##[Part Two](http://philome.la/eliseab2/did-darwin-crib-wallace-part-2)
+
+##[Phoebe's Reflections](http://phoebemannell.github.io/Paradata/)
